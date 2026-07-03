@@ -120,4 +120,3 @@ I am currently focused on four areas:
 - LinkedIn: 
 - Email: ja6232000@gmail.com
 
-I keep private repositories, deployment details, secrets, private RPC endpoints, and unverified metrics out of public materials.
