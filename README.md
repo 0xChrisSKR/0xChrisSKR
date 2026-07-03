@@ -117,8 +117,7 @@ I am currently focused on four areas:
 ## Contact
 
 - GitHub: https://github.com/0xChrisSKR
-- LinkedIn: public URL pending
-- X: public URL pending
-- Email: available through the channel where you received this profile
+- LinkedIn: 
+- Email: ja6232000@gmail.com
 
 I keep private repositories, deployment details, secrets, private RPC endpoints, and unverified metrics out of public materials.
