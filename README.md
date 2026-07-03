@@ -1,8 +1,12 @@
 # Chris Chuang / 莊東岳
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Chris%20Chuang-0f172a?style=flat-square)](https://github.com/0xChrisSKR)
+![Focus](https://img.shields.io/badge/Focus-AI%20Platform%20%7C%20Infrastructure-2563eb?style=flat-square)
+![Claims](https://img.shields.io/badge/Claims-Verifiable%20Only-16a34a?style=flat-square)
+
 **AI Platform Engineer**
 
-AI Agent Workflow · Blockchain Infrastructure · Embodied AI Research
+AI Agent Workflow | Blockchain Infrastructure | Embodied AI Research
 
 I build systems that connect product thinking with infrastructure. My work started from business-side digital transformation and gradually moved into Web3 products, blockchain infrastructure, verification systems, and AI workflow platforms.
 
@@ -28,15 +32,15 @@ TRACE AI Platform is where these threads meet. It is my current platform directi
 
 ```text
 Business
-  ↓
+  ->
 WorldPeace DAO
-  ↓
+  ->
 C-Chain
-  ↓
+  ->
 Immune RPC Gate
-  ↓
+  ->
 TRACE ProofFeed
-  ↓
+  ->
 TRACE AI Platform
 ```
 
@@ -66,7 +70,7 @@ This project defines Normal, Degraded, and OFF modes for RPC-dependent systems. 
 
 Verifiable agent reasoning project from the Colosseum Agent Hackathon.
 
-TRACE ProofFeed turns an AI agent artifact into a public verification flow: Canonical JSON → SHA-256 → Solana Devnet Memo → Verify API. It does not prove the AI is correct; it proves whether the artifact changed after publication.
+TRACE ProofFeed turns an AI agent artifact into a public verification flow: Canonical JSON -> SHA-256 -> Solana Devnet Memo -> Verify API. It does not prove the AI is correct; it proves whether the artifact changed after publication.
 
 - Demo: https://trace-prooffeed.vercel.app/
 - GitHub: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
@@ -93,6 +97,14 @@ C-Chain is my infrastructure direction behind later TRACE work. It covers privat
 - GitHub: https://github.com/0xChrisSKR/cchain-system-showcase
 - Architecture: included in the repository docs
 - Note: presented as private / experimental infrastructure, not a public chain at scale
+
+## Portfolio Ecosystem
+
+- WorldPeace DAO: https://github.com/0xChrisSKR/worldpeace-dao-showcase
+- C-Chain: https://github.com/0xChrisSKR/cchain-system-showcase
+- Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
+- TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
+- TRACE AI Platform: https://github.com/0xChrisSKR/trace-ai-platform-showcase
 
 ## Public Artifacts
 
