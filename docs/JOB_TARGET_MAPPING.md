@@ -1,6 +1,6 @@
 # Job Target Mapping
 
-This file maps public portfolio evidence to target roles. It is designed for interview preparation and recruiter review. It does not add production-user, revenue, TVL, patent, or shipped-robotics claims.
+This file maps public portfolio evidence to role fit. It is a private-style working note kept public for transparency, not a script or a new set of claims. It does not add production-user, revenue, TVL, patent, or shipped-robotics claims.
 
 ## National Research Institutes
 

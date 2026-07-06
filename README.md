@@ -10,13 +10,19 @@
 
 AI Agent Workflow | Blockchain Infrastructure | Embodied AI Research
 
-I build systems that connect product thinking with infrastructure. My work started from business-side digital transformation and gradually moved into Web3 products, blockchain infrastructure, verification systems, and AI workflow platforms.
+I learn by turning ideas into running systems. My work started from business-side digital transformation, then moved into Web3 products, infrastructure experiments, verification, and AI workflow platforms.
 
 Current focus:
 
 - TRACE AI Platform
 - GO2 Robotics research direction
 - Enterprise AI Agent workflows
+
+## Builder Note
+
+I prefer to learn by building. When a topic matters enough, I buy hardware, run infrastructure, document the process, and publish only what I can verify.
+
+I use AI tools heavily, but I keep public claims conservative: what is shipped, what is a prototype, what is planned, and what is only a research direction.
 
 ## Current Career Direction
 
@@ -27,14 +33,6 @@ Current focus:
 - Robotics / Edge AI Engineer
 - National research institutes
 - Overseas engineering opportunities
-
-Role mapping and interview notes:
-
-- [Job target mapping](docs/JOB_TARGET_MAPPING.md)
-- [AI Platform interview pitch](docs/INTERVIEW_PITCH_AI_PLATFORM.md)
-- [Data / Backend interview pitch](docs/INTERVIEW_PITCH_DATA_ENGINEER.md)
-- [Robotics / Edge AI interview pitch](docs/INTERVIEW_PITCH_ROBOTICS_EDGE_AI.md)
-- [Japan / overseas interview pitch](docs/INTERVIEW_PITCH_JAPAN_OVERSEAS.md)
 
 ## Journey
 
@@ -48,7 +46,9 @@ Immune RPC Gate came from a practical reliability question: what should a produc
 
 TRACE ProofFeed brought the verification idea into AI: if an agent produces an artifact, people should be able to check whether that artifact changed after publication.
 
-TRACE AI Platform is where these threads meet. It is my current platform direction around AI workflows, shared state, review trails, skills, workspace, and infrastructure.
+TRACE AI Platform is where these threads meet: AI workflows, shared state, review trails, skills, workspace, and infrastructure.
+
+GO2 Agent Lab is the next research step. I bought Unitree GO2 Air hardware so embodied AI does not stay as a slide deck or diagram-only idea.
 
 ```text
 Business
@@ -62,6 +62,8 @@ Immune RPC Gate
 TRACE ProofFeed
   ->
 TRACE AI Platform
+  ->
+GO2 Agent Lab
 ```
 
 ## Highlighted Projects
@@ -98,6 +100,16 @@ TRACE ProofFeed turns an AI agent artifact into a public verification flow: Cano
 - Official Leaderboard: https://colosseum.com/agent-hackathon/leaderboard
 - Ranked #95 on the public Colosseum Agent Hackathon leaderboard.
 
+### GO2 Agent Lab
+
+Embodied AI research log using personally acquired Unitree GO2 Air hardware.
+
+This is early research. The repo tracks hardware notes, ROS2 learning, milestones, and a future direction for AI Agent workflows with physical systems.
+
+- GitHub: https://github.com/0xChrisSKR/go2-agent-lab
+- Status: research / roadmap
+- Boundary: no completed ROS2 integration, autonomous navigation, or shipped robotics product is claimed
+
 ### WorldPeace DAO
 
 On-chain charity DApp and governance prototype.
@@ -107,7 +119,7 @@ This is the earliest public product in my portfolio lineage. It combines WorldPe
 - Demo: https://dao.worldpeace-bnb.org/
 - GitHub: https://github.com/0xChrisSKR/worldpeace-dao-showcase
 - Screenshots: included in the repository assets
-- Note: presented as a prototype and showcase, not a claim of donation volume, TVL, or real-world charity execution scale
+- Note: prototype only; no TVL, donation volume, investment return, or active DAO userbase is claimed
 
 ### C-Chain
 
@@ -117,28 +129,24 @@ C-Chain is my infrastructure direction behind later TRACE work. It covers privat
 
 - GitHub: https://github.com/0xChrisSKR/cchain-system-showcase
 - Architecture: included in the repository docs
-- Note: presented as private / experimental infrastructure, not a public chain at scale
+- Note: private / experimental infrastructure, not a public chain at scale
 
-## Portfolio Ecosystem
+## Project Links
 
-- WorldPeace DAO: https://github.com/0xChrisSKR/worldpeace-dao-showcase
-- C-Chain: https://github.com/0xChrisSKR/cchain-system-showcase
-- Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
-- TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
 - TRACE AI Platform: https://github.com/0xChrisSKR/trace-ai-platform-showcase
+- TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
 - GO2 Agent Lab: https://github.com/0xChrisSKR/go2-agent-lab
+- Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
+- C-Chain: https://github.com/0xChrisSKR/cchain-system-showcase
+- WorldPeace DAO: https://github.com/0xChrisSKR/worldpeace-dao-showcase
 
 ## Public Artifacts
 
 - GitHub portfolio: https://github.com/0xChrisSKR
 - TRACE ProofFeed demo: https://trace-prooffeed.vercel.app/
-- WorldPeace DAO demo: https://dao.worldpeace-bnb.org/
-- TRACE AI Platform architecture: https://github.com/0xChrisSKR/trace-ai-platform-showcase
-- Immune RPC Gate architecture: https://github.com/0xChrisSKR/immune-rpc-gate
-- C-Chain architecture: https://github.com/0xChrisSKR/cchain-system-showcase
-- WorldPeace DAO screenshots: https://github.com/0xChrisSKR/worldpeace-dao-showcase
 - TRACE ProofFeed official leaderboard: https://colosseum.com/agent-hackathon/leaderboard
-- GO2 Agent Lab: https://github.com/0xChrisSKR/go2-agent-lab
+- WorldPeace DAO demo: https://dao.worldpeace-bnb.org/
+- GO2 Agent Lab research log: https://github.com/0xChrisSKR/go2-agent-lab
 
 ## Current Research
 
@@ -146,7 +154,7 @@ I am currently focused on four areas:
 
 - AI Runtime: how agents keep state, execute workflows, and remain reviewable.
 - Embodied AI: how software agents may connect with physical systems and robotics workflows.
-- GO2 Robotics: research direction only; I do not present it as a shipped product here.
+- GO2 Robotics: early research using owned hardware, not a shipped robotics product.
 - AI Infrastructure: reliability, verification, deployment boundaries, and operator-facing tooling.
 
 ## Contact

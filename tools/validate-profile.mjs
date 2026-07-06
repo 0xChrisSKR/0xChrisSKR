@@ -20,11 +20,7 @@ const requiredLinks = [
 ];
 
 const requiredDocs = [
-  'docs/JOB_TARGET_MAPPING.md',
-  'docs/INTERVIEW_PITCH_AI_PLATFORM.md',
-  'docs/INTERVIEW_PITCH_DATA_ENGINEER.md',
-  'docs/INTERVIEW_PITCH_ROBOTICS_EDGE_AI.md',
-  'docs/INTERVIEW_PITCH_JAPAN_OVERSEAS.md'
+  'docs/JOB_TARGET_MAPPING.md'
 ];
 
 let failed = false;
