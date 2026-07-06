@@ -1,5 +1,7 @@
 # Chris Chuang / 莊東岳
 
+[![CI](https://github.com/0xChrisSKR/0xChrisSKR/actions/workflows/ci.yml/badge.svg)](https://github.com/0xChrisSKR/0xChrisSKR/actions/workflows/ci.yml)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Chris%20Chuang-0f172a?style=flat-square)](https://github.com/0xChrisSKR)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Platform%20%7C%20Infrastructure-2563eb?style=flat-square)
 ![Claims](https://img.shields.io/badge/Claims-Verifiable%20Only-16a34a?style=flat-square)
@@ -131,4 +133,3 @@ I am currently focused on four areas:
 - GitHub: https://github.com/0xChrisSKR
 - LinkedIn: 
 - Email: ja6232000@gmail.com
-
