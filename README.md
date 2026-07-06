@@ -126,7 +126,7 @@ C-Chain is my infrastructure direction behind later TRACE work. It covers privat
 - Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
 - TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
 - TRACE AI Platform: https://github.com/0xChrisSKR/trace-ai-platform-showcase
-- GO2 Agent Lab (planned public repository): https://github.com/0xChrisSKR/go2-agent-lab
+- GO2 Agent Lab: https://github.com/0xChrisSKR/go2-agent-lab
 
 ## Public Artifacts
 
@@ -138,7 +138,7 @@ C-Chain is my infrastructure direction behind later TRACE work. It covers privat
 - C-Chain architecture: https://github.com/0xChrisSKR/cchain-system-showcase
 - WorldPeace DAO screenshots: https://github.com/0xChrisSKR/worldpeace-dao-showcase
 - TRACE ProofFeed official leaderboard: https://colosseum.com/agent-hackathon/leaderboard
-- GO2 Agent Lab: planned public repository at https://github.com/0xChrisSKR/go2-agent-lab
+- GO2 Agent Lab: https://github.com/0xChrisSKR/go2-agent-lab
 
 ## Current Research
 
