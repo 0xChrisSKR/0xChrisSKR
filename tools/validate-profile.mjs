@@ -13,7 +13,18 @@ const requiredLinks = [
   'https://github.com/0xChrisSKR/immune-rpc-gate',
   'https://github.com/0xChrisSKR/cchain-system-showcase',
   'https://github.com/0xChrisSKR/worldpeace-dao-showcase',
-  'https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent'
+  'https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent',
+  'https://github.com/0xChrisSKR/go2-agent-lab',
+  'https://colosseum.com/agent-hackathon/leaderboard',
+  'https://x.com/CChuang64210'
+];
+
+const requiredDocs = [
+  'docs/JOB_TARGET_MAPPING.md',
+  'docs/INTERVIEW_PITCH_AI_PLATFORM.md',
+  'docs/INTERVIEW_PITCH_DATA_ENGINEER.md',
+  'docs/INTERVIEW_PITCH_ROBOTICS_EDGE_AI.md',
+  'docs/INTERVIEW_PITCH_JAPAN_OVERSEAS.md'
 ];
 
 let failed = false;
@@ -24,7 +35,14 @@ for (const link of requiredLinks) {
   }
 }
 
-const forbidden = [/C:\\/i, /C:\//i, /BEGIN (RSA|OPENSSH|PRIVATE) KEY/i, /api[_-]?key\s*[:=]/i, /secret\s*[:=]/i];
+for (const relative of requiredDocs) {
+  if (!fs.existsSync(path.join(process.cwd(), relative))) {
+    console.error(`Missing profile document: ${relative}`);
+    failed = true;
+  }
+}
+
+const forbidden = [/C:[\\/]/i, /BEGIN (RSA|OPENSSH|PRIVATE) KEY/i, /api[_-]?key\s*[:=]/i, /secret\s*[:=]/i];
 for (const pattern of forbidden) {
   if (pattern.test(text)) {
     console.error(`Forbidden pattern in README: ${pattern}`);

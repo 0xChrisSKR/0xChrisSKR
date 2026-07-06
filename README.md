@@ -18,6 +18,24 @@ Current focus:
 - GO2 Robotics research direction
 - Enterprise AI Agent workflows
 
+## Current Career Direction
+
+- AI Platform Engineer
+- AI Agent / LLM Application Engineer
+- Data / Backend Engineer
+- Infrastructure Engineer
+- Robotics / Edge AI Engineer
+- National research institutes
+- Overseas engineering opportunities
+
+Role mapping and interview notes:
+
+- [Job target mapping](docs/JOB_TARGET_MAPPING.md)
+- [AI Platform interview pitch](docs/INTERVIEW_PITCH_AI_PLATFORM.md)
+- [Data / Backend interview pitch](docs/INTERVIEW_PITCH_DATA_ENGINEER.md)
+- [Robotics / Edge AI interview pitch](docs/INTERVIEW_PITCH_ROBOTICS_EDGE_AI.md)
+- [Japan / overseas interview pitch](docs/INTERVIEW_PITCH_JAPAN_OVERSEAS.md)
+
 ## Journey
 
 Business operations taught me to care about the actual problem before the technology.
@@ -77,7 +95,8 @@ TRACE ProofFeed turns an AI agent artifact into a public verification flow: Cano
 - Demo: https://trace-prooffeed.vercel.app/
 - GitHub: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
 - Verify API: https://trace-prooffeed.vercel.app/api/public/verify/demo-001
-- Leaderboard: official link pending
+- Official Leaderboard: https://colosseum.com/agent-hackathon/leaderboard
+- Ranked #95 on the public Colosseum Agent Hackathon leaderboard.
 
 ### WorldPeace DAO
 
@@ -107,6 +126,7 @@ C-Chain is my infrastructure direction behind later TRACE work. It covers privat
 - Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
 - TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
 - TRACE AI Platform: https://github.com/0xChrisSKR/trace-ai-platform-showcase
+- GO2 Agent Lab (planned public repository): https://github.com/0xChrisSKR/go2-agent-lab
 
 ## Public Artifacts
 
@@ -117,7 +137,8 @@ C-Chain is my infrastructure direction behind later TRACE work. It covers privat
 - Immune RPC Gate architecture: https://github.com/0xChrisSKR/immune-rpc-gate
 - C-Chain architecture: https://github.com/0xChrisSKR/cchain-system-showcase
 - WorldPeace DAO screenshots: https://github.com/0xChrisSKR/worldpeace-dao-showcase
-- TRACE ProofFeed leaderboard: official link pending
+- TRACE ProofFeed official leaderboard: https://colosseum.com/agent-hackathon/leaderboard
+- GO2 Agent Lab: planned public repository at https://github.com/0xChrisSKR/go2-agent-lab
 
 ## Current Research
 
@@ -131,5 +152,5 @@ I am currently focused on four areas:
 ## Contact
 
 - GitHub: https://github.com/0xChrisSKR
-- LinkedIn: 
-- Email: ja6232000@gmail.com
+- X: https://x.com/CChuang64210
+- Email: available upon request
