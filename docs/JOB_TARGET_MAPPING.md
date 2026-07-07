@@ -1,6 +1,6 @@
 # Job Target Mapping
 
-This file maps public portfolio evidence to role fit. It is a private-style working note kept public for transparency, not a script or a new set of claims. It does not add production-user, revenue, TVL, patent, or shipped-robotics claims.
+This file maps public portfolio evidence to role fit. It is a transparency note, not a script or a new set of claims. It does not add production-user, revenue, TVL, patent, or shipped-robotics claims.
 
 ## National Research Institutes
 
@@ -9,7 +9,7 @@ Relevant portfolio projects:
 - TRACE AI Platform
 - TRACE ProofFeed
 - Immune RPC Gate
-- GO2 Agent Lab (planned public repository)
+- GO2 Agent Lab (public research repository)
 
 Best talking points:
 
@@ -33,7 +33,7 @@ Honest claim boundaries:
 
 Relevant portfolio projects:
 
-- GO2 Agent Lab (planned public repository)
+- GO2 Agent Lab (public research repository)
 - TRACE AI Platform
 - TRACE ProofFeed
 - C-Chain System Showcase
@@ -136,7 +136,7 @@ Honest claim boundaries:
 
 Relevant portfolio projects:
 
-- GO2 Agent Lab (planned public repository)
+- GO2 Agent Lab (public research repository)
 - TRACE AI Platform
 - Immune RPC Gate
 

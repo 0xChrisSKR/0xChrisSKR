@@ -16,7 +16,14 @@ Current focus:
 
 - TRACE AI Platform
 - GO2 Robotics research direction
+- UAV / Edge AI learning
 - Enterprise AI Agent workflows
+
+## Background
+
+My path did not start in computer science. I studied Music at National Dong Hwa University and learned violin from childhood. After university, I returned to business operations and later worked across automotive / high-value product sales, semiconductor-related business engineering, and digital transformation.
+
+While working at Marketech International, I kept attending evening classes at Cheng Shiu University in Information Management, with an information-security direction. That is why I care about systems that connect real business requirements, engineering judgment, and maintainable delivery instead of only looking good in a demo.
 
 ## Builder Note
 
@@ -150,11 +157,12 @@ C-Chain is my infrastructure direction behind later TRACE work. It covers privat
 
 ## Current Research
 
-I am currently focused on four areas:
+I am currently focused on five areas:
 
 - AI Runtime: how agents keep state, execute workflows, and remain reviewable.
 - Embodied AI: how software agents may connect with physical systems and robotics workflows.
 - GO2 Robotics: early research using owned hardware, not a shipped robotics product.
+- UAV / Edge AI: educational multirotor learning, UAV license preparation, and low-altitude system research direction.
 - AI Infrastructure: reliability, verification, deployment boundaries, and operator-facing tooling.
 
 ## Contact
