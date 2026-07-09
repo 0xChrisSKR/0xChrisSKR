@@ -6,18 +6,19 @@
 ![Focus](https://img.shields.io/badge/Focus-AI%20Platform%20%7C%20Infrastructure-2563eb?style=flat-square)
 ![Claims](https://img.shields.io/badge/Claims-Verifiable%20Only-16a34a?style=flat-square)
 
-**AI Platform Engineer**
+**AI Systems Engineer / AI Platform Builder**
 
-AI Agent Workflow | Blockchain Infrastructure | Embodied AI Research
+Chat-first Agent OS | OSS Kernel Composition | Distributed Runtime Integration | Embodied AI Research
 
 I learn by turning ideas into running systems. My work started from business-side digital transformation, then moved into Web3 products, infrastructure experiments, verification, and AI workflow platforms.
 
 Current focus:
 
-- TRACE AI Platform
+- TRACE as a chat-first AI Agent Operating System
+- OSS kernel composition for agent workflows
+- Distributed runtime integration, described only through public-safe architecture
 - GO2 Robotics research direction
 - UAV / Edge AI learning
-- Enterprise AI Agent workflows
 
 ## Background
 
@@ -34,6 +35,8 @@ I use AI tools heavily, but I keep public claims conservative: what is shipped, 
 ## Current Career Direction
 
 - AI Platform Engineer
+- AI Systems Engineer
+- AI Platform Builder
 - AI Agent / LLM Application Engineer
 - Data / Backend Engineer
 - Infrastructure Engineer
@@ -53,7 +56,7 @@ Immune RPC Gate came from a practical reliability question: what should a produc
 
 TRACE ProofFeed brought the verification idea into AI: if an agent produces an artifact, people should be able to check whether that artifact changed after publication.
 
-TRACE AI Platform is where these threads meet: AI workflows, shared state, review trails, skills, workspace, and infrastructure.
+TRACE AI Platform is where these threads meet. The current direction is a chat-first Agent OS: conversation first, then planning, LangGraph-style workflow orchestration, capability routing, OSS kernels, skills, memory, proof, and return back to conversation.
 
 GO2 Agent Lab is the next research step. I bought Unitree GO2 Air hardware so embodied AI does not stay as a slide deck or diagram-only idea.
 
@@ -77,12 +80,12 @@ GO2 Agent Lab
 
 ### TRACE AI Platform
 
-AI workflow / runtime platform showcase.
+Chat-first AI Agent OS and runtime platform showcase.
 
-I use this project to explain how I think about AI products beyond a chat box: workflow continuity, shared execution state, workspace UI, review trails, skills, policy, receipt, and infrastructure.
+I use this project to explain how I think about AI products beyond a dashboard: conversation as the main interface, planning and runtime orchestration under the hood, existing OSS kernels where they are stronger than custom code, and proof / receipt layers for reviewability.
 
 - GitHub: https://github.com/0xChrisSKR/trace-ai-platform-showcase
-- Architecture: included in the repository docs
+- Architecture: chat-first Agent OS direction documented in the repository
 - Screenshots: included in the repository assets
 
 ### Immune RPC Gate
